@@ -65,6 +65,8 @@ function reiniciarJogo() {
     document.getElementById('reiniciar').setAttribute('disabled', true)
 }
 
+let teste;
+
 
 
 
