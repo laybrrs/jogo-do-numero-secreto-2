@@ -30,7 +30,7 @@ function verificarChute() {
             exibirTextoNaTela('p', 'O número secreto é menor');
         } else {
             exibirTextoNaTela('p', 'O número secreto é maior');
-        }
+        }gi
         tentativas++;
         limparCampo();
     }
